@@ -1,0 +1,2 @@
+# atlas-hadoop
+Hadoop Project
